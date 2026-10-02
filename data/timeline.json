@@ -1,0 +1,75 @@
+[
+  {
+    "id": "german-course",
+    "title": "Start a German course towards B1",
+    "monthsBeforeIntake": 11,
+    "why": "Many English-taught programmes don't require German, but B1 makes daily life, a part-time job and the visa process much easier.",
+    "sourceUrl": "https://www.goethe.de",
+    "lastVerified": "unverified",
+    "germanLevels": ["none", "a1", "a2"]
+  },
+  {
+    "id": "shortlist",
+    "title": "Shortlist universities and programmes",
+    "monthsBeforeIntake": 12,
+    "why": "Admission requirements and deadlines differ per programme, so everything else depends on this list.",
+    "sourceUrl": "https://www2.daad.de/deutschland/studienangebote/studiengang/en/",
+    "lastVerified": "unverified"
+  },
+  {
+    "id": "language-exam",
+    "title": "Book your German or English language exam",
+    "monthsBeforeIntake": 10,
+    "why": "Exam slots fill up weeks ahead, and many universities want the certificate at application time.",
+    "sourceUrl": "https://www.goethe.de",
+    "lastVerified": "unverified"
+  },
+  {
+    "id": "aps",
+    "title": "Start your APS certificate",
+    "monthsBeforeIntake": 9,
+    "why": "Required for Indian applicants, and processing can take weeks.",
+    "sourceUrl": "https://www.aps-india.de",
+    "lastVerified": "unverified"
+  },
+  {
+    "id": "documents",
+    "title": "Collect transcripts, degree certificate and recommendation letters",
+    "monthsBeforeIntake": 8,
+    "why": "University offices and professors are slow, so start early.",
+    "sourceUrl": "https://www.uni-assist.de",
+    "lastVerified": "unverified"
+  },
+  {
+    "id": "apply",
+    "title": "Submit applications",
+    "monthsBeforeIntake": 5,
+    "why": "Most winter-intake deadlines fall around this window, but check each university's exact date.",
+    "sourceUrl": "https://www.uni-assist.de",
+    "lastVerified": "unverified"
+  },
+  {
+    "id": "blocked-account",
+    "title": "Open a blocked account",
+    "monthsBeforeIntake": 3,
+    "why": "Proof of funds is required for the student visa.",
+    "sourceUrl": "https://www.study-in-germany.de",
+    "lastVerified": "unverified"
+  },
+  {
+    "id": "visa",
+    "title": "Book your visa appointment",
+    "monthsBeforeIntake": 3,
+    "why": "Appointment waiting times can be long, so book as soon as you have an admission letter.",
+    "sourceUrl": "https://www.auswaertiges-amt.de",
+    "lastVerified": "unverified"
+  },
+  {
+    "id": "accommodation",
+    "title": "Secure accommodation",
+    "monthsBeforeIntake": 2,
+    "why": "Student housing is scarce in most German cities, so start early.",
+    "sourceUrl": "https://www.study-in-germany.de",
+    "lastVerified": "unverified"
+  }
+]
